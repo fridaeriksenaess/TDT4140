@@ -1,0 +1,35 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+cover2cover/node_modules
+cover2cover/.pnpcover2cover.pnp.js
+
+# testing
+cover2cover/coverage
+
+# next.js
+cover2cover/.next/
+cover2cover/out/
+
+# production
+cover2cover/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+cover2cover/npm-debug.log*
+cover2cover/yarn-debug.log*
+cover2cover/yarn-error.log*
+cover2cover/.pnpm-debug.log*
+
+# local env files
+cover2cover/.env*.local
+
+# vercel
+cover2cover/.vercel
+
+#pocketbase logs
+*db-shm
+*db-wal

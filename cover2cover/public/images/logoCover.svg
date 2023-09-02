@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2732 2048">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: CalifornianFB-Bold, 'Californian FB';
+        font-size: 132px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <image width="2732" height="2048" xlink:href="BookLogo.png"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <text/>
+    <text/>
+    <text/>
+    <text class="cls-1" transform="translate(924.92 740.93) rotate(-19.82)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-1" transform="translate(1009.79 710.89) rotate(-11.57)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-1" transform="translate(1105.73 691.6) rotate(-7.16)"><tspan x="0" y="0">V</tspan></text>
+    <text class="cls-1" transform="translate(1195.95 680.5) rotate(-4.32)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-1" transform="translate(1271.9 674.6) rotate(-1.89)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-1" transform="translate(1364.6 671.77) rotate(.24)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-1" transform="translate(1432.83 671.8) rotate(2.39)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-1" transform="translate(1524.77 675.47) rotate(5.24)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-1" transform="translate(1622.54 684.37) rotate(8.81)"><tspan x="0" y="0">V</tspan></text>
+    <text class="cls-1" transform="translate(1711.73 698.15) rotate(13.43)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-1" transform="translate(1784.05 713.45) rotate(22.59)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-1" transform="translate(1862.84 748.15) rotate(42.77)"><tspan x="0" y="0"> </tspan></text>
+  </g>
+</svg>
